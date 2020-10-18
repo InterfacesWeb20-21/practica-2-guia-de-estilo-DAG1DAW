@@ -1,0 +1,100 @@
+body{
+	font-family: "Trebuchet MS";
+	margin:0px;
+	padding: 0px;
+}
+
+div.menu{
+	height: 10%;
+	width:100%;
+	background-color: #ec5853;
+	
+}
+div.idiomas{
+	float: right;
+}
+
+div.portada{
+	margin-top: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 
+}
+div.contenedor{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 30px;
+}
+div.calzadohombre{
+	float: left;
+	width: 25%;
+	height: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+div.calzadomujer{
+	float: left;
+	width: 33%;
+	height: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+div.calzadoniño{
+	float: left;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+div.calzadopeque{
+	float: left;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+/* IMAGENES */
+img.portada{
+	width:100%;
+	height: 80%
+}
+img.flag{
+	height: 30px;
+	width: 30px;
+	margin-right: 15px;
+}
+img.calzado{
+	width: 160px;
+	height: 160px;
+}
+
+/* LINKS */
+a:link{
+	text-decoration: none;
+	color:#000000;
+}
+a:hover{
+	text-decoration: none;
+	color:#000000;
+}
+a:visited{
+	text-decoration: none;
+	color:#000000;
+}
+a:active{
+	text-decoration: none;
+	color:#000000;
+}
+a.categorias{
+	padding-right: 70px
+}
+
+
+h2.menu{
+	display: inline-block;
+	margin-left: 20px;
+}
+center.menu{
+	display: inline-block;
+	margin-left: 25%;
+}
